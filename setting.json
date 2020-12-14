@@ -1,0 +1,25 @@
+{
+    ...
+    ...
+    ...
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#000",
+        "activityBar.activeBackground": "#5E2750",
+        "sideBar.background": "#10001e",
+        "panel.background": "#0C001F",
+        "editor.background": "#1C001E",
+        "tab.inactiveBackground": "#0C001F",
+        "editorGroupHeader.tabsBorder": "#9130c9",
+        "editorGroup.dropBackground": "#5c05a871",
+        "editorGroupHeader.tabsBackground": "#10001e",
+        "titleBar.activeBackground": "#000",
+        "titleBar.activeForeground": "#FFF"
+    },
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontWeight": "600",
+    "editor.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": true,
+    "window.titleBarStyle": "custom",
+    "window.menuBarVisibility": "toggle"
+}
