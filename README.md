@@ -6,7 +6,7 @@
 #### To use it 
 - Open your VS code
 - Click on `Ctrl + shift + p`
-- Enter `Preferences: open Setting(JSON)`
+- Enter and select `Preferences: open Setting(JSON)`
 - Replace or add the json element `workbench.colorCustomizations`:
 ```json
 "workbench.colorCustomizations": {
