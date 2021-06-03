@@ -28,5 +28,4 @@ to your `setting.json` file of your VS code.
 #### Material Icon Theme
 You can also install the famous Material Icon theme plugin from VS extensions, to customize your file icons display. It really gives a beautiful view helping detecting the files by its extensions quickly.
 Go to Extensions on your left (see screenshot below), and search for Material Icon theme and hit install. Restart the IDE opening one of your projects and enjoy the view 😉
-
 ![](https://i.ibb.co/rvbLBBB/Screenshot-from-2020-12-14-19-37-16.png)
